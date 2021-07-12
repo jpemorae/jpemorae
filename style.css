@@ -23,7 +23,7 @@ header {
 nav {
     position: absolute;
     top: 195px;
-    right: 0;
+    right: 10px;
 }
 
 nav li {
